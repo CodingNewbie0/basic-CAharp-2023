@@ -4,7 +4,7 @@
 namespace ConsoleApp1
 {
     /// <summary>
-    /// 
+    /// 프로그램 클래스
     /// </summary>
     internal class Program
     {
