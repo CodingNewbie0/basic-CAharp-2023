@@ -25,3 +25,18 @@
 ![winform 개발화면](https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/bac62b9f86f156c27f21ee8c51c03ca8c5f21d2f/image/Winform1.png)
 
 [실행화면]
+
+## 4일차
+- C# 기본
+	- 클래스 상속 계속
+	
+- Win App
+	- WinForms 컨트롤 마무리
+	- WinForms 파일복사 앱
+	- 로그인앱 실습
+	
+## 5일차
+- C# 기본
+- Win App
+	- WinForms 디자인 오류시 해결방법
+	- Window 탐색기 만들기
