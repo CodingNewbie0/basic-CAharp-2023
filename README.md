@@ -37,6 +37,13 @@
 	
 ## 5일차
 - C# 기본
+	- 추상클래스, 인터페이스
+	- 프로퍼티
 - Win App
 	- WinForms 디자인 오류시 해결방법
 	- Window 탐색기 만들기
+	
+<img 
+src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/bac62b9f86f156c27f21ee8c51c03ca8c5f21d2f/image/WinForm2.png" width=700>
+
+[실행화면]
