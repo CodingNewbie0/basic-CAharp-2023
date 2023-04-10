@@ -44,6 +44,6 @@
 	- Window 탐색기 만들기
 	
 <img 
-src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/bac62b9f86f156c27f21ee8c51c03ca8c5f21d2f/image/WinForms2.png" width=700>
+src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/image/Winforms2.png" width=700>
 
 [실행화면]
