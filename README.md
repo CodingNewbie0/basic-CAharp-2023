@@ -63,8 +63,10 @@ src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/imag
 		- 보호된 운영체제 폴더 숨기기
 		- 리스트뷰 폴더 더블클릭시 하위폴더로 
 	- DB핸들링
-	
-## 7일차
+<img 
+src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/image/Db1.png" width=700>
 
+[실행화면]
+## 7일차
 	- BookRentalShop DB 사용 WinForms 앱개발
 	- 실습 예제
