@@ -72,12 +72,19 @@ src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/imag
 	- 대리자, 이벤트
 	- 람다식
 	- 애트리뷰트
-	- 파일핸들링
 	- 더 공부해야할 내용(LINQ, 리플렉션, dynamic)
 	
 - Win App
 	- DB핸들링
 	- SDI vs MDI
 	
+## 8일차
+- C# 기본
+	- 파일핸들링
+	- 스레드 / 태스크
+	- 가비지 컬렉션
+
+- Win App
 	- BookRentalShop DB 사용 WinForms 앱개발
 	- 실습예제
+	
