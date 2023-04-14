@@ -81,10 +81,22 @@ src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/imag
 ## 8일차
 - C# 기본
 	- 파일핸들링
-	- 스레드 / 태스크
-	- 가비지 컬렉션
+	- 윈폼 메모장(파일핸들링)
 
 - Win App
 	- BookRentalShop DB 사용 WinForms 앱개발
-	- 실습예제
+		- WinForms MDI
+		- MySQL.Data Lib DB연동
 	
+## 9일차
+- C# 기본
+	- 스레드 / 태스크
+	- 가비지 컬렉션
+- Win App
+	- BookRentalShop 만들기 계속
+
+## 10일차
+- Win App
+	- BookRentalShop 만들기 계속
+	
+- 코딩테스트

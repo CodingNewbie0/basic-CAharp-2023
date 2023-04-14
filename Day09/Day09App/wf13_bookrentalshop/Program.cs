@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace wf001_FrmMain
+namespace wf13_bookrentalshop
 {
     internal static class Program
     {

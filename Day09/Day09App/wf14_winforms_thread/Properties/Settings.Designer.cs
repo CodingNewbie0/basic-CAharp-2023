@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace wf001_FrmMain.Properties
+namespace wf14_winforms_thread.Properties
 {
 
 
