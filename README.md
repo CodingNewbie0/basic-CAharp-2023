@@ -64,6 +64,11 @@ src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/imag
 		- 리스트뷰 폴더 더블클릭시 하위폴더로 
 	- DB핸들링
 <img 
+src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/image/Winforms3.png" width=700>
+
+[실행화면]
+
+<img 
 src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/image/Db1.png" width=700>
 
 [실행화면]
@@ -77,11 +82,16 @@ src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/imag
 - Win App
 	- DB핸들링
 	- SDI vs MDI
-	
+
 ## 8일차
 - C# 기본
 	- 파일핸들링
 	- 윈폼 메모장(파일핸들링)
+
+<img 
+src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/image/Winforms4.png" width=700>
+
+[실행화면]
 
 - Win App
 	- BookRentalShop DB 사용 WinForms 앱개발
@@ -97,6 +107,10 @@ src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/imag
 
 ## 10일차
 - Win App
-	- BookRentalShop 만들기 계속
+	- BookRentalShop 반 완성
 	
+<img 
+src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/image/Winforms5.png" width=700>
+
+[실행화면]
 - 코딩테스트
