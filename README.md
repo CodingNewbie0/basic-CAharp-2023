@@ -64,7 +64,7 @@ src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/imag
 		- 리스트뷰 폴더 더블클릭시 하위폴더로 
 	- DB핸들링
 <img 
-src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/image/Winforms03.png" width=700>
+src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/image/winforms03.png" width=700>
 
 [실행화면]
 
@@ -89,7 +89,7 @@ src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/imag
 	- 윈폼 메모장(파일핸들링)
 
 <img 
-src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/image/Winforms04.png" width=700>
+src="https://raw.githubusercontent.com/CodingNewbie0/basic-CSharp-2023/main/image/winforms04.png" width=700>
 
 [실행화면]
 
