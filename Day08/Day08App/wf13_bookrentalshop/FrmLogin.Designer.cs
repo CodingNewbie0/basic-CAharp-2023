@@ -40,9 +40,9 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(20, 21);
+            this.label1.Location = new System.Drawing.Point(17, 21);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(65, 14);
+            this.label1.Size = new System.Drawing.Size(77, 18);
             this.label1.TabIndex = 0;
             this.label1.Text = "유저 아이디";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -59,9 +59,9 @@
             // 
             // TxtUserId
             // 
-            this.TxtUserId.Location = new System.Drawing.Point(87, 18);
+            this.TxtUserId.Location = new System.Drawing.Point(97, 18);
             this.TxtUserId.Name = "TxtUserId";
-            this.TxtUserId.Size = new System.Drawing.Size(136, 21);
+            this.TxtUserId.Size = new System.Drawing.Size(136, 24);
             this.TxtUserId.TabIndex = 1;
             this.TxtUserId.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtUserId_KeyPress);
             // 
@@ -80,23 +80,23 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(34, 50);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(51, 14);
+            this.label2.Size = new System.Drawing.Size(60, 18);
             this.label2.TabIndex = 0;
             this.label2.Text = "패스워드";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // TxtPassword
             // 
-            this.TxtPassword.Location = new System.Drawing.Point(87, 47);
+            this.TxtPassword.Location = new System.Drawing.Point(97, 47);
             this.TxtPassword.Name = "TxtPassword";
             this.TxtPassword.PasswordChar = '●';
-            this.TxtPassword.Size = new System.Drawing.Size(136, 21);
+            this.TxtPassword.Size = new System.Drawing.Size(136, 24);
             this.TxtPassword.TabIndex = 2;
             this.TxtPassword.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtPassword_KeyPress);
             // 
             // FrmLogin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(256, 114);
             this.Controls.Add(this.TxtPassword);
@@ -105,7 +105,7 @@
             this.Controls.Add(this.BtnLogin);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Font = new System.Drawing.Font("나눔고딕", 9F);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
